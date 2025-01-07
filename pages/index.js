@@ -9,6 +9,7 @@ import Carousel from "../components/Carousel";
 import InfoHome from "../components/InfoHome";
 import PortfolioHome from "../components/PortfolioHome";
 import { fetchAPI } from "../lib/api";
+import PortfolioPartHome from "../components/PortfolioPartHome";
 
 
 
@@ -34,6 +35,8 @@ const Home = ({  }) => {
         <Carousel />
         {/* <InfoHome /> */}
         <PortfolioHome projects={projects} />
+
+        <PortfolioPartHome projects={projects} />
         {/* <ExperienceHome />
        
         <TestimonialHome />
