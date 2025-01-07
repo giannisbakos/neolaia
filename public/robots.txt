@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+# Host: https://ndrico2010.com
+
+# Sitemaps
+# Sitemap: https://ndrico2010.com/sitemap.xml
